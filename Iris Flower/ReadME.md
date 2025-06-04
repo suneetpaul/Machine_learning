@@ -54,13 +54,3 @@ This project focuses on classifying the species of the Iris flower using various
 - Seaborn
 - Scikit-learn (sklearn)
 
-## 📸 Screenshots
-
-> Add screenshots of your notebook output, confusion matrices, and graphs here.
-
-## ✅ How to Run
-
-1. Clone the repository
-2. Install required packages  
-   ```bash
-   pip install -r requirements.txt
